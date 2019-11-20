@@ -6,8 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
+ Added new feature!
 
 * Configuration
 
